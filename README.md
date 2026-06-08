@@ -26,7 +26,6 @@ git clone https://github.com/ajitkumar14/contact-book.git
 ```bash
 cd contact-book
 ```
-
 3. Run the program:
 
 ```bash
