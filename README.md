@@ -18,11 +18,9 @@ A simple Contact Book application built with Python. This project allows users t
 ## How to Run
 
 1. Clone the repository:
-
 ```bash
 git clone https://github.com/ajitkumar14/contact-book.git
 ```
-
 2. Open the project folder:
 
 ```bash
